@@ -22,3 +22,5 @@
 ## laravel-goto-components by naoray
 
 ## Database Client by Weijan Chen
+
+## GitHub Copilot by github
