@@ -24,3 +24,7 @@
 ## Database Client by Weijan Chen
 
 ## GitHub Copilot by github
+
+## GitLense by GitKraken
+
+## Git Graph by mhutchie
