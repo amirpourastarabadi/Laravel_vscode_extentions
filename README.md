@@ -28,3 +28,5 @@
 ## GitLense by GitKraken
 
 ## Git Graph by mhutchie
+
+## Code Spell Checker by street side software
